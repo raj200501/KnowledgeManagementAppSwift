@@ -1,0 +1,32 @@
+[
+  {
+    "entry": {
+      "id": "2A3B4C5D-1111-2222-3333-444455556666",
+      "title": "Swift build notes",
+      "content": "CI pipeline is green",
+      "tags": ["swift", "ci"],
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    "classification": {
+      "label": "engineering",
+      "confidence": 0.82,
+      "signals": ["swift", "ci"]
+    }
+  },
+  {
+    "entry": {
+      "id": "7B8C9D10-AAAA-BBBB-CCCC-DDDDEEEEFFFF",
+      "title": "Roadmap update",
+      "content": "Planning for Q3 release",
+      "tags": ["product"],
+      "createdAt": "2024-01-02T00:00:00Z",
+      "updatedAt": "2024-01-02T00:00:00Z"
+    },
+    "classification": {
+      "label": "product",
+      "confidence": 0.82,
+      "signals": ["roadmap", "planning"]
+    }
+  }
+]

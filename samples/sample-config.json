@@ -1,0 +1,27 @@
+{
+  "storagePath": "/Users/you/.kmapp/entries.json",
+  "defaultTags": ["inbox"],
+  "classificationRules": [
+    {
+      "label": "engineering",
+      "keywords": ["swift", "ios", "xcode", "build", "ci"],
+      "priority": 3
+    },
+    {
+      "label": "product",
+      "keywords": ["roadmap", "planning", "feature"],
+      "priority": 2
+    },
+    {
+      "label": "research",
+      "keywords": ["paper", "study", "experiment"],
+      "priority": 2
+    },
+    {
+      "label": "operations",
+      "keywords": ["incident", "postmortem", "deployment"],
+      "priority": 1
+    }
+  ],
+  "uploadEndpoint": "http://127.0.0.1:8081/upload"
+}
