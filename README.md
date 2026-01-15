@@ -12,7 +12,7 @@ A Swift-based knowledge management tool with a deterministic CLI for capturing, 
 
 ## Requirements
 
-- macOS with Swift 5.9+ (Xcode or Swift toolchain).
+- macOS or Linux with Swift 5.9+ (Xcode or Swift toolchain on macOS).
 
 ## Quickstart (Verified)
 
