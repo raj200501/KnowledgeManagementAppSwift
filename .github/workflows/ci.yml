@@ -14,7 +14,8 @@ jobs:
       - name: Setup Swift
         uses: swift-actions/setup-swift@v2
         with:
-          swift-version: "5.9"
+          swift-version: "5.9.2"
+          platform: "ubuntu"
 
       - name: Cache SwiftPM
         uses: actions/cache@v4
